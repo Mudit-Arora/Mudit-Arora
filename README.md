@@ -1,7 +1,7 @@
-- 👋 Hi, I’m Mudit, I'm an incoming graduate in Masters of Science in Natural Language Processing at the Univerity of California, Santa Cruz, and a recent graduate from Arizona State University with a Bachelor of Science in Computer Science.
+- 👋 Hi, I’m Mudit, I'm a Master's student majoring in Natural Language Processing at the Univerity of California, Santa Cruz, and a recent graduate of Computer Science from Arizona State University.
 - 👀 I’m always curious to learn new technologies and have a hands on them. From Graphic Designing to Video Editing, from Front-End Dev to Web Dev, you name it.
-- 🌱 I'm currently on working on building different Machine Learning Models.
-- 💞️ My main domain are Natural Language Processing, Deep Learning, and App Development.
+- 🌱 I'm currently on working on deploying multiple Deep Learning models, want to know more about? Make sure to check out my socials!
+- 💞️ My main domain are Machine Learning, Deep Learning, Natural Language Processing, and Large Language Models.
 - 📫 How to reach me? Just shoot me a mail at muditarora31@gmail.com and let's get connected!
 
 - I'm actively looking for Summer 2025 AI/ML/SWE internships 😁
