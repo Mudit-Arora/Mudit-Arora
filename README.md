@@ -3,7 +3,7 @@
 
 - 📚 Graduate student in AI at UC Santa Cruz | Computer Science Alum at ASU 
 - 💻 Current research domains: LLMs, Generative AI, NLP  
-- ℹ️ Check out my website for more details | Reach out: [muditarora31[at]gmail[dot]com](muditarora31@gmail.com)
+- ℹ️ Check out my website for more details | Reach out: [muditarora31[at]gmail[dot]com](mailto:muditarora31@gmail.com)
 - 💼 Actively looking for 2025-26 new grad roles in AI/ML/DS/SWE roles 
 
 <!---
